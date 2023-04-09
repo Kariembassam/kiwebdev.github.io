@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.js": "/static/js/main.fe3e86a3.js",
+    "static/js/52.a188cf85.js": "/static/js/52.a188cf85.js",
+    "static/media/bg.png": "/static/media/bg.4ca0f42706a582bf90b2.png",
+    "static/media/Jump-right.gif": "/static/media/Jump-right.6b128c3daaeea3b7c5e4.gif",
+    "static/media/Rightrun.gif": "/static/media/Rightrun.0c1dea9661e7c69f9c02.gif",
+    "static/media/Leftrun.gif": "/static/media/Leftrun.6f7a39d81ac537327465.gif",
+    "static/media/Mario_right.png": "/static/media/Mario_right.ad465e2ab9564bb2a320.png",
+    "static/media/Mario_left.png": "/static/media/Mario_left.f63147e8d2b4bf3a3a43.png",
+    "favicon.ico": "/favicon.ico",
+    "index.html": "/index.html",
+    "favicon-32.png": "/favicon-32.png",
+    "favicon-16.png": "/favicon-16.png",
+    "manifest.json": "/manifest.json",
+    "serve.json": "/serve.json",
+    "main.fe3e86a3.js.map": "/static/js/main.fe3e86a3.js.map",
+    "52.a188cf85.js.map": "/static/js/52.a188cf85.js.map"
+  },
+  "entrypoints": [
+    "static/js/52.a188cf85.js",
+    "static/js/main.fe3e86a3.js"
+  ]
+}
